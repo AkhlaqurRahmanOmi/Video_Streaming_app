@@ -28,10 +28,8 @@ export default function Index() {
               className="w-[136px] h-[15px] absolute -bottom-2 -right-8"
               resizeMode="contain"
             />
-
-            {/* A text something */}
-
           </View>
+            {/* A text something */}
             <Text className="text-sm font-pregular text-gray-100 mt-7 text-center">
               Where Creativity Meets Innovation: Embark on a Journey of Limitless
               Exploration with Aoura
